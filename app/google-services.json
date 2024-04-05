@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "721091526936",
+    "firebase_url": "https://college-hunt-aab15.firebaseio.com",
+    "project_id": "college-hunt-aab15",
+    "storage_bucket": "college-hunt-aab15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721091526936:android:4101fdc8bac6b0e8649e6d",
+        "android_client_info": {
+          "package_name": "com.example.collegehunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721091526936-04s9eu8ftkop64h9mm6m90bq4emgvf2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.collegehunt",
+            "certificate_hash": "04b641ebbde89674a30c9b8ea339efb4f0199d1c"
+          }
+        },
+        {
+          "client_id": "721091526936-3ku1jti4p3cjbcoamjln4qir2sj1jsp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnXweeYrb2FriEzMfikQgyzeBTjLnuN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721091526936-3ku1jti4p3cjbcoamjln4qir2sj1jsp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
